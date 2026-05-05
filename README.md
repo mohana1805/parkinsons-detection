@@ -66,4 +66,4 @@ cd parkinsons-detection
 | Meta-Stacking      | Best       |
 
 
-A simple web application was developed to make the model accessible for real-time predictions.
+A simple web application was developed to make the model accessible for real-time predictions https://parkinsons-detection-system.vercel.app.
